@@ -17,26 +17,41 @@
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### 🖥️ Frontend Development  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### 🤖 Artificial Intelligence & Machine Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+#### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+#### 📄 Documentation & Writing  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+#### 🔧 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
 ### 🛠 Notable Projects
 
 - 🧞‍♂️ **[BinGenie](https://jhkastro11.wixsite.com/bingenie-1)** – Smart waste collection chatbot system   
-- 🩸 **[Blood Donation Management System](https://bdms-4rai.onrender.com)** – End-to-end web platform for donors & receivers  
-- 🚗 **Number Plate Recognition** – Real-time detection using computer vision  
+- 🩸 **[Blood Donation Management System](https://bdms-4rai.onrender.com)** – End-to-end web platform for donors & receivers
 - 🏠 [**!HOME**](https://amishashaney.github.io/HOME/) – Web app to assist unprivileged people via shelters
+- 🚗 **Number Plate Recognition** – Real-time detection using computer vision  
+
 
 
 ---
@@ -68,13 +83,6 @@
 
 ---
 
-### 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amishashaney&style=flat-square&color=brightgreen" alt="Profile views" />
-</p>
-
----
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
